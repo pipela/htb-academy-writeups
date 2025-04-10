@@ -7,3 +7,9 @@
 - ffuf (ค้นหา path หรือไฟล์ ที่ซ่อนอยู่)
 - dig, nslookup (วิเคราะห์ DNS/Subdomain)
 - WhatWeb / Wappalyzer (ดูว่าเว็บเขียนด้วยอะไรและใช้เทคโนโลยีอะไรบ้าง)
+
+---
+## เขียนโดย: Siratchakorn Kaewbot  
+HTB Academy – Web Fundamentals  
+GitHub: https://github.com/pipela
+LinkedIn: https://linkedin.com/in/siratchakorn-kaewbot-677a4516b
