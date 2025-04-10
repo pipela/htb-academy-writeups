@@ -70,9 +70,10 @@ Sec-Fetch-Dest: document
 ใช้ได้กับการป้องกัน เช่น block iframe, block cross-origin
 
 ---
-## เขียนโดย: Siratchakorn Kaewbot  
-HTB Academy – Web Fundamentals  
-GitHub: https://github.com/pipela
-LinkedIn: https://linkedin.com/in/siratchakorn-kaewbot-677a4516b
+## Author:
+Siratchakorn Kaewbot
+HTB Academy – Web Fundamentals
+GitHub: [pipela](https://github.com/pipela)
+LinkedIn: [Siratchakorn-Kaewbot](https://linkedin.com/in/siratchakorn-kaewbot-677a4516b)
 
 
