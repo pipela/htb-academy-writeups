@@ -5,6 +5,7 @@
 
 ## Modules Covered
 - Web Fundamentals
+- Web Pentest Tools
 - Authentication
 - SSRF
 - Broken Access Control
