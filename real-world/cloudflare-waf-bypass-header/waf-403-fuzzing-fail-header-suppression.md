@@ -27,7 +27,7 @@ ffuf -u https://target.com/FUZZ
 
 ระหว่างทำการ Fuzz เว็บไซต์เป้าหมายผ่าน Cloudflare ด้วย ffuf พบว่าทุก request ที่ยิงจะได้รับ HTTP 403 ทันที แม้จะยิง path ที่เป็นหน้าเว็บปกติ เช่น /
 
-หลังจากวิเคราะห์ header พบว่าสาเหตุไม่ได้มาจาก path ผิดหรือ cookie ไม่ถูกต้องหรือติดหน้า Check Human แต่เกิดจากการใส่ Header ที่ผิดปกติในแบบ Pentester style เช่น:
+หลังจากวิเคราะห์ header พบว่าสาเหตุไม่ได้มาจาก path ผิดหรือ cookie ไม่ถูกต้องหรือติดหน้า Human check แต่เกิดจากการใส่ Header ที่ผิดปกติในแบบ Pentester style เช่น:
 เพิ่ม header พิเศษ
 - X-Forwarded-For: 127.0.0.1
 - X-Original-URL: /admin
